@@ -1,4 +1,4 @@
-#flask_rest_api
+# flask_rest_api
 This code allows the user to create a very simple restful API using flask and python  
 Author: Jay Shah  
 Date: July 14, 2020  
